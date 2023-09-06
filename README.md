@@ -4,9 +4,9 @@
 
 This project is an example. Every part of this project is sample code which shows how to do the following:
 
-*
-*
-*
+* changing the header to nav for easier navigation
+* Replace 'div' with 'section' in the body of the site
+* Changed the right side of the screen from 'div' to 'aside'
 *
 *
 *
